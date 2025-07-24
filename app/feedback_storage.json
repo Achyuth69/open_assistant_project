@@ -1,0 +1,17 @@
+[
+  {
+    "question": "give coe for factorial",
+    "answer": "Sure! Here's a simple Python code to calculate the factorial of a number:\n\n```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n-1)\n\n# Example usage\nnumber = 5\nprint(f\"The factorial of {number} is {factorial(number)}\")\n```\n\nThis code defines a function `factorial` that calculates the factorial recursively. You can change the value of `number` to any non-negative integer to find its factorial.",
+    "feedback": "🤔 Neutral"
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I assist you today?",
+    "feedback": "🤔 Neutral"
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I assist you today?",
+    "feedback": "🚫 Wrong"
+  }
+]

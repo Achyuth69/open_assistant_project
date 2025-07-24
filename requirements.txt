@@ -1,0 +1,8 @@
+streamlit
+whisper
+moviepy
+pydub
+gdown
+requests
+PyPDF2
+openai-whisper
