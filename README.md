@@ -26,7 +26,7 @@ open_assistant_project/
 ├── requirements.txt
 ├── README.md
 └── report.md
-
+```
 ---
 
 ## 🚀 Features
